@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>beaglebone_uart</name>
+	<name>rs485-beaglebone</name>
 	<comment></comment>
 	<projects>
 	</projects>
